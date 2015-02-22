@@ -1,0 +1,1 @@
+This error message is saying that a method named "shoes" is trying to be accessed and it has not been defined. 
