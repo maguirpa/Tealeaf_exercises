@@ -1,0 +1,1 @@
+It will not print anything because the block has not been called within the method with .call method.  

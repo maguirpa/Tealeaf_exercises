@@ -1,0 +1,1 @@
+Exception handling is used to make sure that if our code has any mistakes or something happens that is unanticipated, it doesnt completely crash our system and gives us a way to pinpoint any bugs and make corrections.
