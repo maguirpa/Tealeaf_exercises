@@ -1,0 +1,1 @@
+It will print nothing because the return is before the puts words command. 
