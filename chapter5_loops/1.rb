@@ -1,0 +1,1 @@
+It will return the same array as the original because it does not mutate the caller.
