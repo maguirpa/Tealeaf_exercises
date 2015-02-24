@@ -1,0 +1,1 @@
+The major difference is that an array is organized in a structured way by an index number that is sequential by nature.  A hash is ordered in that the the inputed hash remain in the order that you created them by they are instead identified by a hash "key" which can be pretty much anything whereas the array is identified by an index number. 
